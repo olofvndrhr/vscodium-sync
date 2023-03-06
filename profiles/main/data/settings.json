@@ -1,0 +1,146 @@
+{
+    // plugins
+    "gitignore.cacheExpirationInterval": 7200,
+    "bashIde.explainshellEndpoint": "",
+    "nim.buildOnSave": false,
+    "nim.buildCommand": "c",
+    "nim.lintOnSave": true,
+    //"nim.project": ["main.nim"],
+    // "nim.projectMapping": [
+    //     {
+    //         "projectFile": "main.nim",
+    //         "fileRegex": ".*\\.nim"
+    //     }
+    // ],
+    "nim.nimprettyIndent": 4,
+    //"nim.provider": "lsp",
+    "nim.provider": "nimsuggest",
+    "security.workspace.trust.untrustedFiles": "open",
+    "window.zoomLevel": 1,
+    "evenBetterToml.formatter.allowedBlankLines": 1,
+    "evenBetterToml.formatter.alignComments": true,
+    "evenBetterToml.formatter.alignEntries": true,
+    "evenBetterToml.formatter.arrayTrailingComma": true,
+    "evenBetterToml.formatter.columnWidth": 80,
+    "projectManager.git.baseFolders": [
+        "C:\\Users\\ivan\\Documents\\git",
+        "/home/ivan/Documents/git/"
+    ],
+    "projectManager.groupList": true,
+    "sync.gist": "cfc207902d49741b9a3fa1a77463add7",
+    "sync.autoDownload": true,
+    "sync.autoUpload": true,
+    "sync.quietSync": true,
+    "shellcheck.customArgs": ["-x"],
+    "shellformat.flag": "-i 4 -bn -ci -sr",
+    "shellformat.effectLanguages": ["shellscript"],
+    "git-graph.repository.fetchAndPrune": true,
+    // run on save
+    "emeraldwalk.runonsave": {
+        "commands": [
+            {
+                "match": "\\.nim$",
+                "cmd": "nimpretty --indent:4 ${file}"
+            }
+        ]
+    },
+    // formatters
+    "editor.formatOnSave": true,
+    "[python]": {
+        "editor.codeActionsOnSave": {
+            "source.organizeImports": true,
+            "source.fixAll": true
+        }
+    },
+    "ruff.importStrategy": "fromEnvironment",
+    "python.linting.mypyArgs": [
+        "--follow-imports=silent",
+        "--ignore-missing-imports",
+        "--show-column-numbers",
+        "--no-pretty",
+        "--install-types"
+    ],
+    "python.formatting.provider": "black",
+    "[jsonc]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "prettier.tabWidth": 4,
+    "gopls": { "ui.semanticTokens": true },
+    // generic settings
+    "workbench.colorTheme": "One Dark Pro",
+    "workbench.startupEditor": "none",
+    "editor.detectIndentation": false,
+    "files.eol": "\n",
+    "files.trimFinalNewlines": true,
+    "files.insertFinalNewline": true,
+    "terminal.integrated.defaultProfile.windows": "Debian (WSL)",
+    "terminal.integrated.copyOnSelection": true,
+    "terminal.integrated.cursorBlinking": true,
+    "terminal.integrated.scrollback": 2000,
+    "git.autofetch": "all",
+    "editor.renderWhitespace": "all",
+    "terminal.integrated.profiles.windows": {
+        "PowerShell": {
+            "source": "PowerShell",
+            "icon": "terminal-powershell"
+        },
+        "Command Prompt": {
+            "path": [
+                "${env:windir}\\Sysnative\\cmd.exe",
+                "${env:windir}\\System32\\cmd.exe"
+            ],
+            "args": [],
+            "icon": "terminal-cmd"
+        },
+        "Git Bash": {
+            "source": "Git Bash"
+        },
+        "Debian (WSL)": {
+            "path": "C:\\windows\\System32\\wsl.exe",
+            "args": ["-d", "Debian"]
+        }
+    },
+    "oneDarkPro.editorTheme": "Gnome",
+    "editor.fontSize": 15,
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.codeLensFontFamily": "JetBrains Mono",
+    "debug.console.fontFamily": "JetBrains Mono",
+    "scm.inputFontFamily": "editor",
+    "git-graph.repository.sign.commits": true,
+    "git-graph.repository.sign.tags": true,
+    "git.alwaysSignOff": true,
+    "git.enableCommitSigning": true,
+    "git-graph.repository.commits.showSignatureStatus": true,
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false,
+    "python.venvPath": "/opt/venv",
+    "python.testing.cwd": "tests",
+    "python.testing.pytestEnabled": true,
+    "python.testing.pytestArgs": ["--exitfirst", "--verbose"],
+    "files.associations": {
+        "*.ros": "rosScript",
+        "crontab": "plaintext",
+        "*.cron": "plaintext"
+    },
+    "explorer.confirmDelete": false,
+    "search.showLineNumbers": true,
+    "editor.rulers": [88, 100],
+    "diffEditor.ignoreTrimWhitespace": false,
+    "files.trimTrailingWhitespace": true,
+    "editor.unicodeHighlight.allowedLocales": {
+        "fr": true
+    },
+    "gitblame.inlineMessageEnabled": true,
+    "gitblame.inlineMessageMargin": 4,
+    "gitblame.inlineMessageFormat": "blame ${author.name} (${time.ago})",
+    "python.languageServer": "Jedi",
+    "redhat.telemetry.enabled": false,
+    "python.defaultInterpreterPath": "python",
+    "bashIde.includeAllWorkspaceSymbols": true
+}
