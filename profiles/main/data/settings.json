@@ -144,8 +144,8 @@
     "python.defaultInterpreterPath": "python",
     "bashIde.includeAllWorkspaceSymbols": true,
     "syncSettings.crons": {
-        "review": "0,30 * * * *",
-        "download": "5,35 * * * *",
-        "upload": "7,37 * * * *"
+        "review": "0 * * * *",
+        "download": "2 */8 * * *",
+        "upload": "5 */8 * * *"
     }
 }
