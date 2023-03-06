@@ -52,8 +52,6 @@ enabled:
     uuid: 6703768d-d42f-474e-9f6e-5f288d53f6e8
   - id: redhat.vscode-yaml
     uuid: 2061917f-f76a-458a-8da9-f162de22b97e
-  - id: Shan.code-settings-sync
-    uuid: e337c67b-55c2-4fef-8949-eb260e7fb7fd
   - id: skellock.just
     uuid: 465aded8-cb64-4015-8322-9d4dac64a466
   - id: tamasfe.even-better-toml

@@ -27,10 +27,10 @@
         "/home/ivan/Documents/git/"
     ],
     "projectManager.groupList": true,
-    "sync.gist": "cfc207902d49741b9a3fa1a77463add7",
-    "sync.autoDownload": true,
-    "sync.autoUpload": true,
-    "sync.quietSync": true,
+    // "sync.gist": "cfc207902d49741b9a3fa1a77463add7",
+    // "sync.autoDownload": true,
+    // "sync.autoUpload": true,
+    // "sync.quietSync": true,
     "shellcheck.customArgs": ["-x"],
     "shellformat.flag": "-i 4 -bn -ci -sr",
     "shellformat.effectLanguages": ["shellscript"],
@@ -142,5 +142,10 @@
     "python.languageServer": "Jedi",
     "redhat.telemetry.enabled": false,
     "python.defaultInterpreterPath": "python",
-    "bashIde.includeAllWorkspaceSymbols": true
+    "bashIde.includeAllWorkspaceSymbols": true,
+    "syncSettings.crons": {
+        "review": "0,30 * * * *",
+        "download": "5,35 * * * *",
+        "upload": "7,37 * * * *"
+    }
 }
