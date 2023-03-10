@@ -23,164 +23,9 @@ golang.go: '{"go.extensionVersion":"0.37.0","latestGoVersions":{"timestamp":1677
   golang.org/dl/go1.19.6"}]},"forceUpdateForGoplsOnDefault":{"options":{},"loose":false,"includePrerelease":false,"raw":"v0.10.1","major":0,"minor":10,"patch":1,"prerelease":[],"build":[],"version":"0.10.1"},"goplsSurveyConfig":"{\"prompt\":true,\"promptThisMonth\":false,\"dateComputedPromptThisMonth\":\"2023-02-20T17:22:56.917Z\"}"}'
 mhutchie.git-graph: '{"lastKnownGitPath":"git"}'
 ms-azuretools.vscode-docker: '{"showQuickPick.tSyCaFhnt0Y2l2EK1zSC6zIhe/FR13QzexVDEknIUJc=":"3OrtisXB8OVLOnhe3QR+bO9Lh85T4WjCh4GO7xE8Qmw=","docker.registryProviders":[{"id":"dockerHub","api":"DockerHubV2","username":"olofvndrhr"},{"id":"genericDockerV2","api":"DockerV2","url":"https://cr.44net.ch","username":"olofvndrhr"}]}'
-ms-python.python: "{\"isRemoteGlobalSettingCopiedKey\":true,\"pylanceDefaultPro\
-  mptMemento\":true,\"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\\\USERS\\\\IVAN\\\\DOC\
-  UMENTS\\\\GIT\\\\SCRIPTS-PY\":true,\"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\\\USE\
-  RS\\\\IVAN\\\\ONEDRIVE -
-  SWISSCOM\\\\DOCUMENTS\\\\GIT\\\\JS\":true,\"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\
-  \\\\USERS\\\\IVAN\\\\DOCUMENTS\\\\GIT\\\\JS\":true,\"PYTHON_WAS_DISCOVERY_TRI\
-  GGERED_C:\\\\USERS\\\\IVAN\\\\DOCUMENTS\\\\GIT\\\\NIM-TOOLS\":true,\"PYTHON_W\
-  AS_DISCOVERY_TRIGGERED_C:\\\\USERS\\\\IVAN\\\\DOCUMENTS\\\\GIT\\\\MANGA-DLP\"\
-  :true,\"WORKSPACE_FOLDER_INTERPRETER_PATH_C:\\\\USERS\\\\IVAN\\\\DOCUMENTS\\\
-  \\GIT\\\\MANGA-DLP\":\"venv\\\\Scripts\\\\python.exe\",\"preferredGlobalPyInt\
-  erpreter\":{\"id\":\"C:\\\\USERS\\\\IVAN\\\\APPDATA\\\\LOCAL\\\\PROGRAMS\\\\P\
-  YTHON\\\\PYTHON311\\\\PYTHON.EXE\",\"sysPrefix\":\"C:\\\\Users\\\\ivan\\\\App\
-  Data\\\\Local\\\\Programs\\\\Python\\\\Python311\",\"envType\":\"Global\",\"e\
-  nvName\":\"\",\"envPath\":\"\",\"path\":\"C:\\\\Users\\\\ivan\\\\AppData\\\\L\
-  ocal\\\\Programs\\\\Python\\\\Python311\\\\python.exe\",\"architecture\":3,\"\
-  sysVersion\":\"3.11.2 (tags/v3.11.2:878ead1, Feb  7 2023, 16:38:35) [MSC
-  v.1934 64 bit
-  (AMD64)]\",\"version\":{\"raw\":\"3.11.2\",\"major\":3,\"minor\":11,\"patch\"\
-  :2,\"build\":[],\"prerelease\":[\"final\",\"0\"]},\"companyDisplayName\":\"Py\
-  thonCore\",\"displayName\":\"Python 3.11.2
-  64-bit\",\"detailedDisplayName\":\"Python 3.11.2
-  64-bit\"},\"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\\\USERS\\\\IVAN\\\\DOCUMENTS\\\
-  \\GIT\\\\NCM-ANALYZER\":true,\"PYTHON_ENV_INFO_CACHE\":[{\"name\":\"\",\"loca\
-  tion\":\"\",\"kind\":\"global-other\",\"executable\":{\"filename\":\"C:\\\\Us\
-  ers\\\\ivan\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python311\\\\python.\
-  exe\",\"sysPrefix\":\"C:\\\\Users\\\\ivan\\\\AppData\\\\Local\\\\Programs\\\\\
-  Python\\\\Python311\",\"ctime\":1676650769559,\"mtime\":1675785304000},\"disp\
-  lay\":\"Python 3.11.2
-  64-bit\",\"version\":{\"major\":3,\"minor\":11,\"micro\":2,\"release\":{\"lev\
-  el\":\"final\",\"serial\":0},\"sysVersion\":\"3.11.2 (tags/v3.11.2:878ead1,
-  Feb  7 2023, 16:38:35) [MSC v.1934 64 bit
-  (AMD64)]\"},\"arch\":3,\"distro\":{\"org\":\"PythonCore\",\"defaultDisplayName\
-  \":\"Python 3.11 (64-bit)\"},\"source\":[\"path env var\",\"windows
-  registry\"],\"id\":\"C:\\\\USERS\\\\IVAN\\\\APPDATA\\\\LOCAL\\\\PROGRAMS\\\\P\
-  YTHON\\\\PYTHON311\\\\PYTHON.EXE\",\"detailedDisplayName\":\"Python 3.11.2
-  64-bit\"},{\"name\":\"\",\"location\":\"\",\"kind\":\"global-other\",\"execut\
-  able\":{\"filename\":\"C:\\\\Users\\\\ivan\\\\AppData\\\\Local\\\\Programs\\\
-  \\Python\\\\Python39\\\\python.exe\",\"sysPrefix\":\"C:\\\\Users\\\\ivan\\\\A\
-  ppData\\\\Local\\\\Programs\\\\Python\\\\Python39\",\"ctime\":1676894870030,\
-  \"mtime\":1652802364000},\"display\":\"Python 3.9.13
-  64-bit\",\"version\":{\"major\":3,\"minor\":9,\"micro\":13,\"release\":{\"lev\
-  el\":\"final\",\"serial\":0},\"sysVersion\":\"3.9.13 (tags/v3.9.13:6de2ca5,
-  May 17 2022, 16:36:42) [MSC v.1929 64 bit
-  (AMD64)]\"},\"arch\":3,\"distro\":{\"org\":\"PythonCore\",\"defaultDisplayName\
-  \":\"Python 3.9 (64-bit)\"},\"source\":[\"path env var\",\"windows
-  registry\"],\"id\":\"C:\\\\USERS\\\\IVAN\\\\APPDATA\\\\LOCAL\\\\PROGRAMS\\\\P\
-  YTHON\\\\PYTHON39\\\\PYTHON.EXE\",\"detailedDisplayName\":\"Python 3.9.13
-  64-bit\"},{\"name\":\"venv\",\"location\":\"c:\\\\Users\\\\ivan\\\\Documents\\\
-  \\git\\\\manga-dlp\\\\venv\",\"kind\":\"virt-venv\",\"executable\":{\"filename\
-  \":\"c:\\\\Users\\\\ivan\\\\Documents\\\\git\\\\manga-dlp\\\\venv\\\\Scripts\\\
-  \\python.exe\",\"sysPrefix\":\"c:\\\\Users\\\\ivan\\\\Documents\\\\git\\\\man\
-  ga-dlp\\\\venv\",\"ctime\":1676895005457,\"mtime\":1676895005457},\"searchLoc\
-  ation\":\"file:///c%3A/Users/ivan/Documents/git/manga-dlp/venv\",\"display\":\
-  \"Python 3.9.13 ('venv':
-  venv)\",\"version\":{\"major\":3,\"minor\":9,\"micro\":13,\"release\":{\"level\
-  \":\"final\",\"serial\":0},\"sysVersion\":\"3.9.13 (tags/v3.9.13:6de2ca5, May
-  17 2022, 16:36:42) [MSC v.1929 64 bit
-  (AMD64)]\"},\"arch\":3,\"distro\":{\"org\":\"\"},\"source\":[],\"type\":\"Vir\
-  tual\",\"id\":\"C:\\\\USERS\\\\IVAN\\\\DOCUMENTS\\\\GIT\\\\MANGA-DLP\\\\VENV\\\
-  \\SCRIPTS\\\\PYTHON.EXE\",\"detailedDisplayName\":\"Python 3.9.13 ('venv':
-  venv)\"}],\"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\\\USERS\\\\IVAN\\\\SWISSCOM\\\
-  \\WAN+ -
-  DOCUMENTS\\\\WORK\\\\LAN-I\\\\MASSCHANGES\\\\TOOLS\":true,\"PYTHON_WAS_DISCOV\
-  ERY_TRIGGERED_C:\\\\USERS\\\\IVAN\\\\DOCUMENTS\\\\GIT\\\\WAN-SCR-SCRIPTS\":tr\
-  ue,\"PYTHON_GLOBAL_STORAGE_KEYS\":[{\"key\":\"PYTHON_ENV_INFO_CACHE\",\"defau\
-  ltValue\":[]},{\"key\":\"PYTHON_ENV_INFO_CACHE\",\"defaultValue\":[]},{\"key\
-  \":\"PYTHON_ENV_INFO_CACHE\",\"defaultValue\":[]},{\"key\":\"PYTHON_ENV_INFO_\
-  CACHE\",\"defaultValue\":[]},{\"key\":\"PYTHON_ENV_INFO_CACHE\",\"defaultValue\
-  \":[]},{\"key\":\"PYTHON_ENV_INFO_CACHE\",\"defaultValue\":[]},{\"key\":\"PYT\
-  HON_ENV_INFO_CACHE\",\"defaultValue\":[]},{\"key\":\"PYTHON_ENV_INFO_CACHE\",\
-  \"defaultValue\":[]},{\"key\":\"PYTHON_ENV_INFO_CACHE\",\"defaultValue\":[]},{\
-  \"key\":\"PYTHON_ENV_INFO_CACHE\",\"defaultValue\":[]},{\"key\":\"PYTHON_ENV_\
-  INFO_CACHE\",\"defaultValue\":[]},{\"key\":\"PYTHON_ENV_INFO_CACHE\",\"defaul\
-  tValue\":[]},{\"key\":\"PYTHON_ENV_INFO_CACHE\",\"defaultValue\":[]},{\"key\":\
-  \"PYTHON_ENV_INFO_CACHE\",\"defaultValue\":[]},{\"key\":\"PYTHON_ENV_INFO_CAC\
-  HE\",\"defaultValue\":[]},{\"key\":\"PYTHON_ENV_INFO_CACHE\",\"defaultValue\"\
-  :[]},{\"key\":\"PYTHON_ENV_INFO_CACHE\",\"defaultValue\":[]},{\"key\":\"PYTHO\
-  N_ENV_INFO_CACHE\",\"defaultValue\":[]},{\"key\":\"PYTHON_ENV_INFO_CACHE\",\"\
-  defaultValue\":[]},{\"key\":\"PYTHON_ENV_INFO_CACHE\",\"defaultValue\":[]},{\
-  \"key\":\"PYTHON_ENV_INFO_CACHE\",\"defaultValue\":[]},{\"key\":\"PYTHON_ENV_\
-  INFO_CACHE\",\"defaultValue\":[]},{\"key\":\"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\
-  \\\\USERS\\\\IVAN\\\\DOCUMENTS\\\\GIT\\\\WAN-SCR-SCRIPTS\",\"defaultValue\":f\
-  alse},{\"key\":\"PYTHON_ENV_INFO_CACHE\",\"defaultValue\":[]},{\"key\":\"WORK\
-  SPACE_FOLDER_INTERPRETER_PATH_C:\\\\USERS\\\\IVAN\\\\DOCUMENTS\\\\GIT\\\\WAN-\
-  SCR-SCRIPTS\"},{\"key\":\"PYTHON_ENV_INFO_CACHE\",\"defaultValue\":[]},{\"key\
-  \":\"PYTHON_ENV_INFO_CACHE\",\"defaultValue\":[]},{\"key\":\"PYTHON_ENV_INFO_\
-  CACHE\",\"defaultValue\":[]},{\"key\":\"PYTHON_ENV_INFO_CACHE\",\"defaultValue\
-  \":[]},{\"key\":\"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\\\USERS\\\\IVAN\\\\SWISS\
-  COM\\\\WAN+ -
-  DOCUMENTS\\\\WORK\\\\LAN-I\\\\MASSCHANGES\\\\TOOLS\",\"defaultValue\":false},{\
-  \"key\":\"PYTHON_ENV_INFO_CACHE\",\"defaultValue\":[]},{\"key\":\"WORKSPACE_F\
-  OLDER_INTERPRETER_PATH_C:\\\\USERS\\\\IVAN\\\\SWISSCOM\\\\WAN+ -
-  DOCUMENTS\\\\WORK\\\\LAN-I\\\\MASSCHANGES\\\\TOOLS\"},{\"key\":\"PYTHON_ENV_I\
-  NFO_CACHE\",\"defaultValue\":[]},{\"key\":\"PYTHON_ENV_INFO_CACHE\",\"default\
-  Value\":[]},{\"key\":\"PYTHON_ENV_INFO_CACHE\",\"defaultValue\":[]},{\"key\":\
-  \"PYTHON_ENV_INFO_CACHE\",\"defaultValue\":[]},{\"key\":\"PYTHON_ENV_INFO_CAC\
-  HE\",\"defaultValue\":[]},{\"key\":\"PYTHON_ENV_INFO_CACHE\",\"defaultValue\"\
-  :[]},{\"key\":\"PYTHON_ENV_INFO_CACHE\",\"defaultValue\":[]},{\"key\":\"PYTHO\
-  N_ENV_INFO_CACHE\",\"defaultValue\":[]},{\"key\":\"PYTHON_ENV_INFO_CACHE\",\"\
-  defaultValue\":[]},{\"key\":\"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\\\USERS\\\\I\
-  VAN\\\\DOCUMENTS\\\\GIT\\\\NCM-ANALYZER\",\"defaultValue\":false},{\"key\":\"\
-  PYTHON_ENV_INFO_CACHE\",\"defaultValue\":[]},{\"key\":\"WORKSPACE_FOLDER_INTE\
-  RPRETER_PATH_C:\\\\USERS\\\\IVAN\\\\DOCUMENTS\\\\GIT\\\\NCM-ANALYZER\"},{\"key\
-  \":\"PYTHON_ENV_INFO_CACHE\",\"defaultValue\":[]},{\"key\":\"PYTHON_ENV_INFO_\
-  CACHE\",\"defaultValue\":[]},{\"key\":\"PYTHON_ENV_INFO_CACHE\",\"defaultValue\
-  \":[]},{\"key\":\"PYTHON_ENV_INFO_CACHE\",\"defaultValue\":[]},{\"key\":\"PYT\
-  HON_ENV_INFO_CACHE\",\"defaultValue\":[]},{\"key\":\"PYTHON_ENV_INFO_CACHE\",\
-  \"defaultValue\":[]},{\"key\":\"PYTHON_ENV_INFO_CACHE\",\"defaultValue\":[]},{\
-  \"key\":\"PYTHON_ENV_INFO_CACHE\",\"defaultValue\":[]},{\"key\":\"PYTHON_ENV_\
-  INFO_CACHE\",\"defaultValue\":[]},{\"key\":\"PYTHON_ENV_INFO_CACHE\",\"defaul\
-  tValue\":[]},{\"key\":\"PYTHON_ENV_INFO_CACHE\",\"defaultValue\":[]},{\"key\":\
-  \"PYTHON_ENV_INFO_CACHE\",\"defaultValue\":[]},{\"key\":\"PYTHON_ENV_INFO_CAC\
-  HE\",\"defaultValue\":[]},{\"key\":\"PYTHON_ENV_INFO_CACHE\",\"defaultValue\"\
-  :[]},{\"key\":\"PYTHON_ENV_INFO_CACHE\",\"defaultValue\":[]},{\"key\":\"PYTHO\
-  N_WAS_DISCOVERY_TRIGGERED_C:\\\\USERS\\\\IVAN\\\\DOCUMENTS\\\\GIT\\\\MANGA-DLP\
-  \",\"defaultValue\":false},{\"key\":\"PYTHON_ENV_INFO_CACHE\",\"defaultValue\
-  \":[]},{\"key\":\"WORKSPACE_FOLDER_INTERPRETER_PATH_C:\\\\USERS\\\\IVAN\\\\DO\
-  CUMENTS\\\\GIT\\\\MANGA-DLP\"},{\"key\":\"PYTHON_ENV_INFO_CACHE\",\"defaultVa\
-  lue\":[]},{\"key\":\"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\\\USERS\\\\IVAN\\\\DO\
-  CUMENTS\\\\GIT\\\\NIM-TOOLS\",\"defaultValue\":false},{\"key\":\"PYTHON_ENV_I\
-  NFO_CACHE\",\"defaultValue\":[]},{\"key\":\"WORKSPACE_FOLDER_INTERPRETER_PATH\
-  _C:\\\\USERS\\\\IVAN\\\\DOCUMENTS\\\\GIT\\\\NIM-TOOLS\"},{\"key\":\"PYTHON_EN\
-  V_INFO_CACHE\",\"defaultValue\":[]},{\"key\":\"PYTHON_WAS_DISCOVERY_TRIGGERED\
-  _C:\\\\USERS\\\\IVAN\\\\DOCUMENTS\\\\GIT\\\\JS\",\"defaultValue\":false},{\"k\
-  ey\":\"PYTHON_ENV_INFO_CACHE\",\"defaultValue\":[]},{\"key\":\"WORKSPACE_FOLD\
-  ER_INTERPRETER_PATH_C:\\\\USERS\\\\IVAN\\\\DOCUMENTS\\\\GIT\\\\JS\"},{\"key\":\
-  \"PYTHON_ENV_INFO_CACHE\",\"defaultValue\":[]},{\"key\":\"PYTHON_ENV_INFO_CAC\
-  HE\",\"defaultValue\":[]},{\"key\":\"PYTHON_ENV_INFO_CACHE\",\"defaultValue\"\
-  :[]},{\"key\":\"PYTHON_ENV_INFO_CACHE\",\"defaultValue\":[]},{\"key\":\"PYTHO\
-  N_ENV_INFO_CACHE\",\"defaultValue\":[]},{\"key\":\"isRemoteGlobalSettingCopie\
-  dKey\",\"defaultValue\":false},{\"key\":\"remoteWorkspaceFolderKeysForWhichTh\
-  eCopyIsDone_Key\",\"defaultValue\":[]},{\"key\":\"PYTHON_ENV_INFO_CACHE\",\"d\
-  efaultValue\":[]},{\"key\":\"VSCode.ABExp.FeatureData\",\"defaultValue\":{\"f\
-  eatures\":[]}},{\"key\":\"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\\\USERS\\\\IVAN\\\
-  \\DOCUMENTS\\\\GIT\\\\SCRIPTS-PY\",\"defaultValue\":false},{\"key\":\"PYTHON_\
-  ENV_INFO_CACHE\",\"defaultValue\":[]},{\"key\":\"PYTHON_EXTENSION_GLOBAL_STOR\
-  AGE_KEYS\",\"defaultValue\":[]},{\"key\":\"PythonTensorBoardWebviewPreferredV\
-  iewGroup\",\"defaultValue\":-1},{\"key\":\"WORKSPACE_FOLDER_INTERPRETER_PATH_\
-  C:\\\\USERS\\\\IVAN\\\\DOCUMENTS\\\\GIT\\\\SCRIPTS-PY\"},{\"key\":\"preferred\
-  GlobalPyInterpreter\"}],\"remoteWorkspaceFolderKeysForWhichTheCopyIsDone_Key\
-  \":[\"C:\\\\USERS\\\\IVAN\\\\DOCUMENTS\\\\GIT\\\\WAN-SCR-SCRIPTS\",\"C:\\\\US\
-  ERS\\\\IVAN\\\\SWISSCOM\\\\WAN+ -
-  DOCUMENTS\\\\WORK\\\\LAN-I\\\\MASSCHANGES\\\\TOOLS\",\"C:\\\\USERS\\\\IVAN\\\
-  \\DOCUMENTS\\\\GIT\\\\NCM-ANALYZER\",\"C:\\\\USERS\\\\IVAN\\\\DOCUMENTS\\\\GIT\
-  \\\\MANGA-DLP\",\"C:\\\\USERS\\\\IVAN\\\\DOCUMENTS\\\\GIT\\\\JS\",\"C:\\\\USE\
-  RS\\\\IVAN\\\\ONEDRIVE -
-  SWISSCOM\\\\DOCUMENTS\\\\GIT\\\\JS\",\"C:\\\\USERS\\\\IVAN\\\\DOCUMENTS\\\\GIT\
-  \\\\SCRIPTS-PY\"]}"
-ms-toolsai.jupyter: '{"JupyterDetectionTelemetrySentMementoKey":true,"JUPYTER_REMOTE_KERNELSPECS_V4":{"kernels":[],"extensionVersion":"2022.10.110"},"CACHE_KEY_FOR_JUPYTER_KERNELSPEC_ROOT_PATH.":"file:///c%3A/Users/ivan/AppData/Roaming/jupyter/kernels","INTERPRETER_PATH_WAS_SELECTED_FOR_JUPYTER_SERVER":true,"JUPYTER_LOCAL_KERNELSPECS_V4":{"kernels":[{"kind":"startUsingPythonInterpreter","kernelSpec":{"specFile":"c:\\Users\\ivan\\.vscode-oss\\extensions\\ms-toolsai.jupyter-2022.10.110-universal\\temp\\jupyter\\kernels\\pythonjvsc74a57bd060f3e2ead1e84d8b814dfdd0b87f3bebfb263e439a294bd86af4b47c8ed7279d\\kernel.json","interpreterPath":"c:\\Users\\ivan\\AppData\\Local\\Programs\\Python\\Python311\\python.exe","isRegisteredByVSC":"registeredByNewVersionOfExt","name":"pythonjvsc74a57bd060f3e2ead1e84d8b814dfdd0b87f3bebfb263e439a294bd86af4b47c8ed7279d","argv":["python","-m","ipykernel_launcher","-f","{connection_file}"],"language":"python","executable":"python","display_name":"Python
-  3","metadata":{"interpreter":{"path":"c:\\Users\\ivan\\AppData\\Local\\Programs\\Python\\Python311\\python.exe"}},"env":{}},"interpreter":{"id":"C:\\USERS\\IVAN\\APPDATA\\LOCAL\\PROGRAMS\\PYTHON\\PYTHON311\\PYTHON.EXE","sysPrefix":"C:\\Users\\ivan\\AppData\\Local\\Programs\\Python\\Python311","envPath":"c:\\Users\\ivan\\AppData\\Local\\Programs\\Python\\Python311\\python.exe","envType":"Unknown","version":{"major":3,"minor":11,"patch":2,"raw":"3.11.2
-  (tags/v3.11.2:878ead1, Feb  7 2023, 16:38:35) [MSC v.1934 64 bit
-  (AMD64)]"},"path":"c:\\Users\\ivan\\AppData\\Local\\Programs\\Python\\Python311\\python.exe"},"id":".jvsc74a57bd060f3e2ead1e84d8b814dfdd0b87f3bebfb263e439a294bd86af4b47c8ed7279d.c:\\Users\\ivan\\AppData\\Local\\Programs\\Python\\Python311\\python.exe.c:\\Users\\ivan\\AppData\\Local\\Programs\\Python\\Python311\\python.exe.-m#ipykernel_launcher"},{"kind":"startUsingPythonInterpreter","kernelSpec":{"specFile":"c:\\Users\\ivan\\.vscode-oss\\extensions\\ms-toolsai.jupyter-2022.10.110-universal\\temp\\jupyter\\kernels\\pythonjvsc74a57bd05f966349cd6f1028bfc5e5ef19b3eb11d62f964c2879022ce7b88f338fd2707a\\kernel.json","interpreterPath":"c:\\Users\\ivan\\AppData\\Local\\Programs\\Python\\Python39\\python.exe","isRegisteredByVSC":"registeredByNewVersionOfExt","name":"pythonjvsc74a57bd05f966349cd6f1028bfc5e5ef19b3eb11d62f964c2879022ce7b88f338fd2707a","argv":["python","-m","ipykernel_launcher","-f","{connection_file}"],"language":"python","executable":"python","display_name":"Python
-  3","metadata":{"interpreter":{"path":"c:\\Users\\ivan\\AppData\\Local\\Programs\\Python\\Python39\\python.exe"}},"env":{}},"interpreter":{"id":"C:\\USERS\\IVAN\\APPDATA\\LOCAL\\PROGRAMS\\PYTHON\\PYTHON39\\PYTHON.EXE","sysPrefix":"C:\\Users\\ivan\\AppData\\Local\\Programs\\Python\\Python39","envPath":"c:\\Users\\ivan\\AppData\\Local\\Programs\\Python\\Python39\\python.exe","envType":"Unknown","version":{"major":3,"minor":9,"patch":13,"raw":"3.9.13
-  (tags/v3.9.13:6de2ca5, May 17 2022, 16:36:42) [MSC v.1929 64 bit
-  (AMD64)]"},"path":"c:\\Users\\ivan\\AppData\\Local\\Programs\\Python\\Python39\\python.exe"},"id":".jvsc74a57bd05f966349cd6f1028bfc5e5ef19b3eb11d62f964c2879022ce7b88f338fd2707a.c:\\Users\\ivan\\AppData\\Local\\Programs\\Python\\Python39\\python.exe.c:\\Users\\ivan\\AppData\\Local\\Programs\\Python\\Python39\\python.exe.-m#ipykernel_launcher"}],"extensionVersion":"2022.10.110"},"ENVIRONMENT_ACTIVATION_COMMAND_CACHE_KEY_PREFIX_c:\\Users\\ivan\\Documents\\git\\manga-dlp\\venv\\Scripts\\python.exe":["c:/Users/ivan/Documents/git/manga-dlp/venv/Scripts/activate.bat"],"DATASCIENCE.LAST_SAVED_CELL_LANGUAGE":"python","60f3e2ead1e84d8b814dfdd0b87f3bebfb263e439a294bd86af4b47c8ed7279d#ipykernel":true,"DS_InsidersNotebookExecutionCount":54,"DS_ExperimentNotebookExecutionCount":54,"REGISTRATION_ID_EXTENSION_OWNER_MEMENTO_KEY":[{"extensionId":"ms-toolsai.jupyter","providerId":"_builtin.jupyterServerUrlProvider"},{"extensionId":"_builtin.jupyterServerUrlProvider","providerId":"ms-toolsai.jupyter"}]}'
 redhat.vscode-yaml: '{"json-schema-key":{"https://raw.githubusercontent.com/woodpecker-ci/woodpecker/master/pipeline/schema/schema.json":{"eTag":"W/\"fb2b25decc98dd8d9c7a1fac11b412ac90221b7a4598b4528d1291c160e3267f\"","schemaPath":"c:\\Users\\ivan\\AppData\\Roaming\\VSCodium\\User\\globalStorage\\redhat.vscode-yaml\\schemas_cache\\a757a333972ef6580ec36b6ae8e68c9d"},"https://raw.githubusercontent.com/compose-spec/compose-spec/master/schema/compose-spec.json":{"eTag":"W/\"61ffd20bdab7037f175410924fcc46fd92d211aaf732f49e2846e1aeb1514501\"","schemaPath":"c:\\Users\\ivan\\AppData\\Roaming\\VSCodium\\User\\globalStorage\\redhat.vscode-yaml\\schemas_cache\\0de41aa57ba6684e4d1a99150829d181"}}}'
 vadimcn.vscode-lldb: '{"lastLaunchedVersion":"1.8.1"}'
-workbench.activity.pinnedViewlets2: '[{"id":"workbench.view.explorer","pinned":true,"visible":true,"order":0},{"id":"workbench.view.search","pinned":true,"visible":true,"order":1},{"id":"workbench.view.extension.references-view","pinned":true,"visible":false,"order":7},{"id":"workbench.view.scm","pinned":true,"visible":true,"order":2},{"id":"workbench.view.debug","pinned":true,"visible":true,"order":3},{"id":"workbench.view.remote","pinned":true,"visible":false,"order":4},{"id":"workbench.view.extension.test","pinned":true,"visible":false,"order":6},{"id":"workbench.view.extension.jupyter","pinned":true,"visible":true,"order":10},{"id":"workbench.view.extension.project-manager","pinned":true,"visible":true,"order":8},{"id":"workbench.view.extension.dockerView","pinned":true,"visible":true,"order":9},{"id":"workbench.view.extension.github-pull-requests","pinned":true,"visible":false,"order":9},{"id":"workbench.view.extension.github-pull-request","pinned":true,"visible":false,"order":10},{"id":"workbench.view.extension.gitlens","pinned":true,"visible":false,"order":9},{"id":"workbench.view.extensions","pinned":true,"visible":true,"order":4},{"id":"workbench.view.editSessions","pinned":true,"visible":false},{"id":"userDataProfiles","pinned":true,"visible":false}]'
+workbench.activity.pinnedViewlets2: '[{"id":"workbench.view.explorer","pinned":true,"visible":true,"order":0},{"id":"workbench.view.search","pinned":true,"visible":true,"order":1},{"id":"workbench.view.extension.references-view","pinned":true,"visible":false,"order":7},{"id":"workbench.view.scm","pinned":true,"visible":true,"order":2},{"id":"workbench.view.debug","pinned":true,"visible":true,"order":3},{"id":"workbench.view.remote","pinned":true,"visible":false,"order":4},{"id":"workbench.view.extension.test","pinned":true,"visible":true,"order":6},{"id":"workbench.view.extension.jupyter","pinned":true,"visible":true,"order":10},{"id":"workbench.view.extension.project-manager","pinned":true,"visible":true,"order":8},{"id":"workbench.view.extension.dockerView","pinned":true,"visible":true,"order":9},{"id":"workbench.view.extension.github-pull-requests","pinned":true,"visible":false,"order":9},{"id":"workbench.view.extension.github-pull-request","pinned":true,"visible":false,"order":10},{"id":"workbench.view.extension.gitlens","pinned":true,"visible":false,"order":9},{"id":"workbench.view.extensions","pinned":true,"visible":true,"order":4},{"id":"workbench.view.editSessions","pinned":true,"visible":false},{"id":"userDataProfiles","pinned":true,"visible":false}]'
 workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
   \"themeIcon\":{\"id\":\"explorer-view-icon\"},\"name\":\"Explorer\",\"isBuilt\
   in\":true,\"views\":[{\"when\":\"openEditorsVisible\"},{},{},{\"when\":\"time\
@@ -237,7 +82,7 @@ workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
   :true,\"views\":[]}]"
 workbench.auxiliarybar.pinnedPanels: "[]"
 workbench.auxiliaryBar.size: "256"
-workbench.editor.languageDetectionOpenedLanguages.global: '[["markdown",true],["go",true],["json",true],["dockercompose",true],["ini",true],["yaml",true],["ignore",true],["toml",true],["python",true],["javascript",true],["plaintext",true],["jsonc",true]]'
+workbench.editor.languageDetectionOpenedLanguages.global: '[["markdown",true],["go",true],["json",true],["dockercompose",true],["ini",true],["yaml",true],["ignore",true],["toml",true],["javascript",true],["jsonc",true],["plaintext",true],["python",true]]'
 workbench.explorer.views.state.hidden: '[{"id":"outline","isHidden":false},{"id":"timeline","isHidden":false},{"id":"workbench.explorer.openEditorsView","isHidden":true},{"id":"workbench.explorer.emptyView","isHidden":false},{"id":"npm","isHidden":true},{"id":"commitViewProvider","isHidden":false},{"id":"compareCommitViewProvider","isHidden":false},{"id":"workbench.explorer.fileView","isHidden":false},{"id":"go.explorer","isHidden":false}]'
 workbench.grid.size: '{"height":768,"width":1024}'
 workbench.panel.alignment: center
@@ -245,14 +90,14 @@ workbench.panel.lastNonMaximizedHeight: "300"
 workbench.panel.lastNonMaximizedWidth: "300"
 workbench.panel.markers.hidden: '[{"id":"workbench.panel.markers.view","isHidden":false}]'
 workbench.panel.output.hidden: '[{"id":"workbench.panel.output","isHidden":false}]'
-workbench.panel.pinnedPanels: '[{"id":"workbench.panel.markers","name":"Problems","pinned":true,"order":0,"visible":true},{"id":"workbench.panel.output","name":"Output","pinned":true,"order":1,"visible":true},{"id":"workbench.panel.repl","name":"Debug
-  Console","pinned":true,"order":2,"visible":true},{"id":"terminal","name":"Terminal","pinned":true,"order":3,"visible":true},{"id":"workbench.view.extension.jupyter-variables","name":"Jupyter","pinned":true,"order":6,"visible":false},{"id":"workbench.view.extension.gitlensPanel","name":"GitLens","pinned":true,"order":6,"visible":false},{"id":"refactorPreview","name":"Refactor
+workbench.panel.pinnedPanels: '[{"id":"workbench.panel.markers","name":"Problems","pinned":true,"badgeEnabled":true,"order":0,"visible":true},{"id":"workbench.panel.output","name":"Output","pinned":true,"badgeEnabled":true,"order":1,"visible":true},{"id":"workbench.panel.repl","name":"Debug
+  Console","pinned":true,"badgeEnabled":true,"order":2,"visible":true},{"id":"terminal","name":"Terminal","pinned":true,"badgeEnabled":true,"order":3,"visible":true},{"id":"workbench.view.extension.jupyter-variables","name":"Jupyter","pinned":true,"badgeEnabled":true,"order":6,"visible":true},{"id":"workbench.view.extension.gitlensPanel","name":"GitLens","pinned":true,"order":6,"visible":false},{"id":"refactorPreview","name":"Refactor
   Preview","pinned":true,"visible":false}]'
 workbench.panel.repl.hidden: '[{"id":"workbench.panel.repl.view","isHidden":false}]'
 workbench.panel.size: "226"
 workbench.scm.views.state.hidden: '[{"id":"workbench.scm.repositories","isHidden":true},{"id":"workbench.scm","isHidden":false},{"id":"gitlens.views.repositories","isHidden":false},{"id":"gitlens.views.commits","isHidden":false},{"id":"gitlens.views.commitDetails","isHidden":false},{"id":"gitlens.views.fileHistory","isHidden":false},{"id":"gitlens.views.lineHistory","isHidden":true},{"id":"gitlens.views.branches","isHidden":false},{"id":"gitlens.views.remotes","isHidden":false},{"id":"gitlens.views.stashes","isHidden":false},{"id":"gitlens.views.tags","isHidden":false},{"id":"gitlens.views.worktrees","isHidden":false},{"id":"gitlens.views.contributors","isHidden":true},{"id":"gitlens.views.searchAndCompare","isHidden":false}]'
 workbench.sideBar.size: "233"
-workbench.statusbar.hidden: '["status.workspaceTrust.1676662463982","status.workspaceTrust.a4c1bdf9a895d73359b9445753294b72","status.workspaceTrust.1676663093393","status.workspaceTrust.a24e08211e955b3f1f7b0ae361bc27fe","status.workspaceTrust.1676665371294","status.workspaceTrust.1676668083092","status.workspaceTrust.1676668195851","status.workspaceTrust.9ad1ca0874329afc02e1eabfcf4f51e8","status.workspaceTrust.8c1e13ee8418825f13f4258b347c0f86","status.workspaceTrust.1676671549988","status.workspaceTrust.1676671865789","status.workspaceTrust.89c559bde1692e58ef6e1376712fa4e2","status.workspaceTrust.1676672591502","status.workspaceTrust.1676678571849","status.workspaceTrust.8856aa56485b9b5e3ec013df28b3b96b","status.workspaceTrust.807ec3352ca8de1ab2a071d3776c1f03","status.workspaceTrust.06bbfa3c246651eac59c2e6a8fa4cbfd","status.workspaceTrust.1676718800947","status.workspaceTrust.1676721292247","status.workspaceTrust.1676722284582","status.workspaceTrust.1676722650105","status.workspaceTrust.1676733496882","status.workspaceTrust.1676733849336","status.workspaceTrust.1676734789119","status.workspaceTrust.1676826694858","status.workspaceTrust.1676828256657","status.workspaceTrust.1676828715415","status.workspaceTrust.1676828765922","status.workspaceTrust.1676829061352","status.workspaceTrust.1676830074332","status.workspaceTrust.1676831334343","status.workspaceTrust.1676831460103","status.workspaceTrust.2a66f2ef2756ad8efea69a466b9e5214","status.workspaceTrust.1676834979881","status.workspaceTrust.eb3c3302c96be8a5b488d31d99d430e3","status.workspaceTrust.1676910669907","status.workspaceTrust.c0ff7914017c2a607d9d5c5128924df7","status.workspaceTrust.1676996214579","status.workspaceTrust.01d77c7609f5908fc4d2be68f34e00a0","status.workspaceTrust.e02751cab5d0ca5403b85b28f9fb0044","status.workspaceTrust.d608e1fff0b1222fb5f948a5cec8588d","status.workspaceTrust.7994c60a2208362e388dee508cb9a68e","status.workspaceTrust.1676997837518","status.workspaceTrust.1676998153430","status.workspaceTrust.e9125028c1fffc1474edcbb223915d3a","status.workspaceTrust.1677001037474","status.workspaceTrust.1677010224575","status.workspaceTrust.da98e8ff05b57cf4bd3e46c4047f6fdc","status.workspaceTrust.13dc6377aafe4c43f5bb33d00929c4a4","status.workspaceTrust.a17197bff61e84a724b6d30a4275e0e0","status.workspaceTrust.1677014394110","status.workspaceTrust.1677017940865","status.workspaceTrust.1677019419077","status.workspaceTrust.1677096599466","status.workspaceTrust.225ecab66d8f0168ea7bc8c107eaf024","status.workspaceTrust.9f52d694c32b93142923c09a7d418fbf","status.workspaceTrust.1677101532623","status.workspaceTrust.1677101558016","status.workspaceTrust.f03ad16602b8e7b0b3af58d61de0cfe4","status.workspaceTrust.1677102027203","status.workspaceTrust.e9abb22697f0952ef2a1f337fcfb2f1f","status.workspaceTrust.1677103091981","status.workspaceTrust.f4f94b2d5fdf7a26a9885f6ed8e0b0f0","status.workspaceTrust.1677107125969","status.workspaceTrust.1677109924184","status.workspaceTrust.1677181275423","status.workspaceTrust.1677183617841","status.workspaceTrust.2c1887c88f2f2bebfe9317f7aa89e5d2","status.workspaceTrust.1677263925649","status.workspaceTrust.1677271129783","status.workspaceTrust.1677329399994","status.workspaceTrust.1677331242433","status.workspaceTrust.2b97a1cd6825c613ca4f924d777afc0a","status.workspaceTrust.1677333292120","status.workspaceTrust.e7f667dde88fc12d74db4a2212fbf345","status.workspaceTrust.1677345987848","status.workspaceTrust.1677346016228","status.workspaceTrust.03206044b900ac2a909de51ad38a0669","status.workspaceTrust.1677347444892","status.workspaceTrust.1677348188056","status.workspaceTrust.1678129165027","status.workspaceTrust.ac8f2f8c37be3ff91c41f3de4dc1cffe","status.workspaceTrust.1678272662176","status.workspaceTrust.f9572b832c1f8bea121a124c9aadc3d3","status.workspaceTrust.1678273080054","status.workspaceTrust.a54e557c5ed71a793d57ebadc5b0b41f","status.workspaceTrust.1678286009278","status.workspaceTrust.1678286928673","status.workspaceTrust.5991e24792e16a756526ee7453e64645","status.workspaceTrust.1271d76da2f2aed372435ff34b6077af","status.workspaceTrust.de5f6b9b19bf76ba3587cc476ed78d25"]'
+workbench.statusbar.hidden: '["status.workspaceTrust.1676662463982","status.workspaceTrust.a4c1bdf9a895d73359b9445753294b72","status.workspaceTrust.1676663093393","status.workspaceTrust.a24e08211e955b3f1f7b0ae361bc27fe","status.workspaceTrust.1676665371294","status.workspaceTrust.1676668083092","status.workspaceTrust.1676668195851","status.workspaceTrust.9ad1ca0874329afc02e1eabfcf4f51e8","status.workspaceTrust.8c1e13ee8418825f13f4258b347c0f86","status.workspaceTrust.1676671549988","status.workspaceTrust.1676671865789","status.workspaceTrust.89c559bde1692e58ef6e1376712fa4e2","status.workspaceTrust.1676672591502","status.workspaceTrust.1676678571849","status.workspaceTrust.8856aa56485b9b5e3ec013df28b3b96b","status.workspaceTrust.807ec3352ca8de1ab2a071d3776c1f03","status.workspaceTrust.06bbfa3c246651eac59c2e6a8fa4cbfd","status.workspaceTrust.1676718800947","status.workspaceTrust.1676721292247","status.workspaceTrust.1676722284582","status.workspaceTrust.1676722650105","status.workspaceTrust.1676733496882","status.workspaceTrust.1676733849336","status.workspaceTrust.1676734789119","status.workspaceTrust.1676826694858","status.workspaceTrust.1676828256657","status.workspaceTrust.1676828715415","status.workspaceTrust.1676828765922","status.workspaceTrust.1676829061352","status.workspaceTrust.1676830074332","status.workspaceTrust.1676831334343","status.workspaceTrust.1676831460103","status.workspaceTrust.2a66f2ef2756ad8efea69a466b9e5214","status.workspaceTrust.1676834979881","status.workspaceTrust.eb3c3302c96be8a5b488d31d99d430e3","status.workspaceTrust.1676910669907","status.workspaceTrust.c0ff7914017c2a607d9d5c5128924df7","status.workspaceTrust.1676996214579","status.workspaceTrust.01d77c7609f5908fc4d2be68f34e00a0","status.workspaceTrust.e02751cab5d0ca5403b85b28f9fb0044","status.workspaceTrust.d608e1fff0b1222fb5f948a5cec8588d","status.workspaceTrust.7994c60a2208362e388dee508cb9a68e","status.workspaceTrust.1676997837518","status.workspaceTrust.1676998153430","status.workspaceTrust.e9125028c1fffc1474edcbb223915d3a","status.workspaceTrust.1677001037474","status.workspaceTrust.1677010224575","status.workspaceTrust.da98e8ff05b57cf4bd3e46c4047f6fdc","status.workspaceTrust.13dc6377aafe4c43f5bb33d00929c4a4","status.workspaceTrust.a17197bff61e84a724b6d30a4275e0e0","status.workspaceTrust.1677014394110","status.workspaceTrust.1677017940865","status.workspaceTrust.1677019419077","status.workspaceTrust.1677096599466","status.workspaceTrust.225ecab66d8f0168ea7bc8c107eaf024","status.workspaceTrust.9f52d694c32b93142923c09a7d418fbf","status.workspaceTrust.1677101532623","status.workspaceTrust.1677101558016","status.workspaceTrust.f03ad16602b8e7b0b3af58d61de0cfe4","status.workspaceTrust.1677102027203","status.workspaceTrust.e9abb22697f0952ef2a1f337fcfb2f1f","status.workspaceTrust.1677103091981","status.workspaceTrust.f4f94b2d5fdf7a26a9885f6ed8e0b0f0","status.workspaceTrust.1677107125969","status.workspaceTrust.1677109924184","status.workspaceTrust.1677181275423","status.workspaceTrust.1677183617841","status.workspaceTrust.2c1887c88f2f2bebfe9317f7aa89e5d2","status.workspaceTrust.1677263925649","status.workspaceTrust.1677271129783","status.workspaceTrust.1677329399994","status.workspaceTrust.1677331242433","status.workspaceTrust.2b97a1cd6825c613ca4f924d777afc0a","status.workspaceTrust.1677333292120","status.workspaceTrust.e7f667dde88fc12d74db4a2212fbf345","status.workspaceTrust.1677345987848","status.workspaceTrust.1677346016228","status.workspaceTrust.03206044b900ac2a909de51ad38a0669","status.workspaceTrust.1677347444892","status.workspaceTrust.1677348188056","status.workspaceTrust.1678129165027","status.workspaceTrust.ac8f2f8c37be3ff91c41f3de4dc1cffe","status.workspaceTrust.1678272662176","status.workspaceTrust.f9572b832c1f8bea121a124c9aadc3d3","status.workspaceTrust.1678273080054","status.workspaceTrust.a54e557c5ed71a793d57ebadc5b0b41f","status.workspaceTrust.1678286009278","status.workspaceTrust.1678286928673","status.workspaceTrust.5991e24792e16a756526ee7453e64645","status.workspaceTrust.1271d76da2f2aed372435ff34b6077af","status.workspaceTrust.de5f6b9b19bf76ba3587cc476ed78d25","status.workspaceTrust.0cf1027b618b6779eaa10fde2ca1bec3"]'
 workbench.view.debug.state.hidden: '[{"id":"workbench.debug.welcome","isHidden":false},{"id":"workbench.debug.variablesView","isHidden":false},{"id":"workbench.debug.watchExpressionsView","isHidden":false},{"id":"workbench.debug.callStackView","isHidden":false},{"id":"workbench.debug.loadedScriptsView","isHidden":false},{"id":"workbench.debug.breakPointsView","isHidden":false},{"id":"jsBrowserBreakpoints","isHidden":false},{"id":"jsExcludedCallers","isHidden":false},{"id":"loadedModules","isHidden":false}]'
 workbench.view.extension.dockerView.state.hidden: '[{"id":"dockerContainers","isHidden":false},{"id":"dockerImages","isHidden":false},{"id":"dockerRegistries","isHidden":false},{"id":"dockerNetworks","isHidden":false},{"id":"dockerVolumes","isHidden":false},{"id":"vscode-docker.views.dockerContexts","isHidden":false},{"id":"vscode-docker.views.help","isHidden":false}]'
 workbench.view.extension.github-pull-request.state.hidden: '[{"id":"github:createPullRequest","isHidden":false},{"id":"github:compareChanges","isHidden":false},{"id":"prStatus:github","isHidden":false},{"id":"github:activePullRequest","isHidden":false},{"id":"github:activePullRequest:welcome","isHidden":false}]'
