@@ -151,5 +151,9 @@
     "[dockercompose]": {
         "editor.defaultFormatter": "ms-azuretools.vscode-docker"
     },
-    "thunder-client.defaultUrl": "http://localhost"
+    "thunder-client.defaultUrl": "http://localhost",
+    "workbench.preferredDarkColorTheme": "One Dark Pro",
+    "workbench.preferredHighContrastColorTheme": "One Dark Pro",
+    "workbench.preferredHighContrastLightColorTheme": "One Dark Pro",
+    "workbench.preferredLightColorTheme": "One Dark Pro"
 }
