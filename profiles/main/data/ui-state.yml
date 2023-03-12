@@ -13,9 +13,8 @@ alefragnani.project-manager: '{"project-manager.version":"12.0.1","recent":"[\"$
   ncm-analyzer\",\"$(git-branch) wan-scr-scripts\",\"$(git-branch)
   js\",\"$(git-branch) src-files\",\"$(git-branch)
   docker-caddy-proxy-conf\",\"$(git-branch) docker-mirror-conf\",\"$(git-branch)
-  docker-ci-plugins-tests-build\",\"$(git-branch) scripts\",\"$(git-branch)
-  scripts-py\",\"$(git-branch) manga-dlp\",\"$(git-branch)
-  inventory-handler\"]"}'
+  docker-ci-plugins-tests-build\",\"$(git-branch) scripts-py\",\"$(git-branch)
+  scripts\",\"$(git-branch) manga-dlp\",\"$(git-branch) inventory-handler\"]"}'
 emeraldwalk.RunOnSave: '{"isEnabled":true}'
 golang.go: '{"go.extensionVersion":"0.37.0","latestGoVersions":{"timestamp":1678564664508,"goVersions":[{"binpath":"golang.org/dl/go1.20.2","label":"Go
   1.20.2","available":false,"description":"download
@@ -76,10 +75,27 @@ workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
   -pull-request\",\"isBuiltin\":false},{\"id\":\"workbench.view.extension.gitle\
   ns\",\"isBuiltin\":false},{\"id\":\"workbench.view.extensions\",\"themeIcon\"\
   :{\"id\":\"extensions-view-icon\"},\"name\":\"Extensions\",\"isBuiltin\":true,\
-  \"views\":[]},{\"id\":\"workbench.view.extension.thunder-client\",\"iconUrl\"\
-  :{\"$mid\":1,\"path\":\"%%EXTENSION_DATA_PATH%%/rangav.vscode-thunder-client-\
-  2.5.1-universal/images/thunder-client.svg\",\"scheme\":\"file\"},\"name\":\"T\
-  hunder
+  \"views\":[{\"when\":\"defaultExtensionViews\"},{\"when\":\"searchExtensionUp\
+  dates || searchOutdatedExtensions\"},{\"when\":\"recommendedExtensions &&
+  workbenchState != 'empty'\"},{\"when\":\"defaultExtensionViews && hasGallery
+  && !hasInstalledExtensions\"},{\"when\":\"searchExtensionUpdates ||
+  searchRecentlyUpdatedExtensions\"},{\"when\":\"recommendedExtensions\"},{\"wh\
+  en\":\"defaultExtensionViews && hasGallery &&
+  !config.extensions.showRecommendationsOnlyOnDemand &&
+  !sortByUpdateDate\"},{\"when\":\"defaultExtensionViews &&
+  hasInstalledExtensions\"},{\"when\":\"defaultExtensionViews &&
+  hasInstalledExtensions\"},{\"when\":\"searchMarketplaceExtensions\"},{\"when\
+  \":\"searchInstalledExtensions\"},{\"when\":\"searchEnabledExtensions\"},{\"w\
+  hen\":\"searchDisabledExtensions\"},{\"when\":\"searchBuiltInExtensions\"},{\
+  \"when\":\"searchWorkspaceUnsupportedExtensions\"},{\"when\":\"builtInExtensi\
+  ons\"},{\"when\":\"builtInExtensions\"},{\"when\":\"builtInExtensions\"},{\"w\
+  hen\":\"searchUnsupportedWorkspaceExtensions\"},{\"when\":\"searchUnsupported\
+  WorkspaceExtensions\"},{\"when\":\"searchUnsupportedWorkspaceExtensions &&
+  virtualWorkspace\"},{\"when\":\"searchUnsupportedWorkspaceExtensions &&
+  virtualWorkspace\"},{\"when\":\"searchDeprecatedExtensions\"}]},{\"id\":\"wor\
+  kbench.view.extension.thunder-client\",\"iconUrl\":{\"$mid\":1,\"path\":\"%%E\
+  XTENSION_DATA_PATH%%/rangav.vscode-thunder-client-2.5.1-universal/images/thun\
+  der-client.svg\",\"scheme\":\"file\"},\"name\":\"Thunder
   Client\",\"isBuiltin\":false,\"views\":[{}]},{\"id\":\"workbench.view.editSes\
   sions\",\"themeIcon\":{\"id\":\"edit-sessions-view-icon\"},\"name\":\"Cloud
   Changes\",\"isBuiltin\":true,\"views\":[{\"when\":\"editSessionsShowView\"}]}\
@@ -87,7 +103,7 @@ workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
   \"name\":\"Profiles\",\"isBuiltin\":true,\"views\":[]}]"
 workbench.auxiliarybar.pinnedPanels: "[]"
 workbench.auxiliaryBar.size: "256"
-workbench.editor.languageDetectionOpenedLanguages.global: '[["gotmpl",true],["shellscript",true],["ignore",true],["ini",true],["json",true],["pip-requirements",true],["markdown",true],["just",true],["rosScript",true],["python",true],["plaintext",true],["jsonc",true]]'
+workbench.editor.languageDetectionOpenedLanguages.global: '[["ignore",true],["ini",true],["json",true],["pip-requirements",true],["just",true],["jsonc",true],["markdown",true],["shellscript",true],["dotenv",true],["plaintext",true],["rosScript",true],["python",true]]'
 workbench.explorer.views.state.hidden: '[{"id":"outline","isHidden":false},{"id":"timeline","isHidden":false},{"id":"workbench.explorer.openEditorsView","isHidden":true},{"id":"workbench.explorer.emptyView","isHidden":false},{"id":"npm","isHidden":true},{"id":"commitViewProvider","isHidden":false},{"id":"compareCommitViewProvider","isHidden":false},{"id":"workbench.explorer.fileView","isHidden":false},{"id":"go.explorer","isHidden":false}]'
 workbench.grid.size: '{"height":768,"width":1024}'
 workbench.panel.alignment: center
