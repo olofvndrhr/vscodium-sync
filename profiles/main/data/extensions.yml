@@ -46,6 +46,8 @@ enabled:
     uuid: be03d67e-ad80-49be-8d43-4980217403b0
   - id: njpwerner.autodocstring
     uuid: 2d6fea35-f68e-461d-9b7b-5cd05be99451
+  - id: oderwat.indent-rainbow
+    uuid: eaa2127d-cb69-4ab9-8505-a60c9ee5f28b
   - id: paragdiwan.gitpatch
     uuid: 1c2d0e20-1a4e-4d22-a8bb-be29a274bf49
   - id: rangav.vscode-thunder-client
